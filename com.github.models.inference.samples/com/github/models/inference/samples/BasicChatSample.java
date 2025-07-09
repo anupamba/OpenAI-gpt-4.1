@@ -1,8 +1,6 @@
-package com.github.models.inference.samples;
-
 import java.util.Arrays;
 import java.util.List;
-
+// Add proper dependency so that this error disappers.
 import com.azure.ai.inference.ChatCompletionsClient;
 import com.azure.ai.inference.ChatCompletionsClientBuilder;
 import com.azure.ai.inference.models.ChatCompletions;
